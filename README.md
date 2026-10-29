@@ -22,6 +22,7 @@ brew install cookcli
 - [What is CookCLI?](#-what-is-cookcli)
 - [Getting Started](#-getting-started)
 - [Installation](#-installation)
+- [One-Click Deploy](#-one-click-deploy)
 - [Commands](#-commands)
 - [Documentation](#-documentation)
 - [Configuration](#️-configuration)
@@ -315,6 +316,10 @@ cargo run -- server ./seed
 # Or use the Makefile
 make dev_server  # Builds CSS and starts server
 ```
+
+## 🚀 One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/CookCLI/)
 
 ## 🛠 Commands
 
